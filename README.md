@@ -14,5 +14,5 @@ Voir [rsyslog-conteneur/README.md](rsyslog-conteneur/README.md)
 
 ## Etape 2 Centraliser les journaux
 
-cf. 
+Voir [rsyslog-entrepot/README.md](rsyslog-entrepot/README.md)
 
